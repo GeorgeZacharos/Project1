@@ -1,2 +1,9 @@
 # Project1
-Car Accidents
+Project name: Car accidents
+
+Project members:
+Nikoletta Rokidou
+Despoina Stathopoulou
+Giorgos Zacharos
+
+
