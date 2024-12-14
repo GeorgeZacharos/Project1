@@ -5,5 +5,6 @@ Project members:
 Nikoletta Rokidou
 Despoina Stathopoulou
 Giorgos Zacharos
+Konstantinos Katsougiannis
 
 
